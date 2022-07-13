@@ -1,0 +1,4 @@
+!.eslintrc.js
+tailwind.config.js
+.stylelintrc.js
+postcss.config.js
